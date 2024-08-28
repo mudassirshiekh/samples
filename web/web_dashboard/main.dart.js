@@ -7657,7 +7657,7 @@ if(B.d.p(s,"/")){q=s.split("/")
 s=q[q.length-1]}return A.auk(s,A.atf(r," ("+s+")",""),"core")}throw A.i(a)},
 aJx(a,b,c){return new A.oe()},
 ayJ(a,b){$.aEj().bL(a,new A.a3H(a,null,b))},
-aCQ(a,b){if(B.d.p(J.dK(a),"of undefined"))throw A.i(A.auk("not-initialized","Firebase has not been correctly initialized.\n\nUsually this means you've attempted to use a Firebase service before calling `Firebase.initializeApp`.\n\nView the documentation for more information: https://firebase.flutter.dev/docs/overview#initialization\n    ","core"))
+aCQ(a,b){if(B.d.p(J.dK(a),"of undefined"))throw A.i(A.auk("not-initialized","Firebase has not been correctly initialized.\n\nUsually this means you've attempted to use a Firebase service before calling `Firebase.initializeApp`.\n\nView the documentation for more information: https://firebase.google.com/docs/flutter/setup\n    ","core"))
 A.ayH(a,b)},
 aRm(a,b){var s,r,q,p,o
 try{s=a.$0()
