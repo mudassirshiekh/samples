@@ -20,7 +20,7 @@ const RESOURCES = {"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb0489
 "main.dart.js": "8f3d734da92bcf98ccc836c6922d972e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "c877dd821e537c427c816dfd698efafd",
-"flutter_bootstrap.js": "87211184aecda6feafef09be2b875e34",
+"flutter_bootstrap.js": "5d6ac179d3747daa0b87666fdf4b08d1",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
