@@ -23860,7 +23860,7 @@ r.strokeWeight=b.gls()
 r.strokeColor=A.aue(b.gaA())
 A.auf(b.gaA())
 return void 1},
-aNN(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c="getZoom",b=new A.apt(),a=A.b(["newLatLngZoom",a2.b.cM(),a2.c],t.G),a0=a[0]
+aNN(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c="getZoom",b=new A.apt(),a=A.b(["newLatLngBounds",a2.b.cM(),a2.c],t.G),a0=a[0]
 switch(a0){case"newCameraPosition":q=new A.apu().$1(a[1])
 r=b.$1(q.h(0,"target"))
 a=q.h(0,"bearing")
@@ -26136,7 +26136,7 @@ A.apz.prototype={
 $1(a){var s=A.e5().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a6bd3f1de158bb61090e0c8053df93a10cb548e1/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/36335019a8eab588c3c2ea783c618d90505be233/":s)+a},
 $S:73}
 A.YQ.prototype={
 ek(){B.d.ap(this.a.a.save())},
@@ -78973,7 +78973,7 @@ s=t.vN
 p.n(0,a,A.fO(b,s).c1(0,t.Wj,s))
 return this.l_(a).cY("tileOverlays#update",q.cM(),!1,t.H)},
 AZ(a,b){return this.l_(b).cY("clusterManagers#update",a.cM(),!1,t.H)},
-ya(a,b){return this.l_(b).cY("camera#animate",A.O(["cameraUpdate",A.b(["newLatLngZoom",a.b.cM(),a.c],t.G)],t.N,t.K),!1,t.H)},
+ya(a,b){return this.l_(b).cY("camera#animate",A.O(["cameraUpdate",A.b(["newLatLngBounds",a.b.cM(),a.c],t.G)],t.N,t.K),!1,t.H)},
 a4s(a,b,c,d,e){var s=null,r="plugins.flutter.io/google_maps",q=e.a,p=q.b,o=t.N,n=A.O(["initialCameraPosition",A.O(["bearing",q.a,"target",A.b([p.a,p.b],t.n),"tilt",q.c,"zoom",q.d],o,t.K),"options",d,"markersToAdd",A.qO(c.a,t.xM),"polygonsToAdd",A.qO(c.b,t.cr),"polylinesToAdd",A.qO(c.c,t.CY),"circlesToAdd",A.qO(c.d,t.KP),"heatmapsToAdd",A.qO(c.e,t.rc),"tileOverlaysToAdd",A.qO(c.f,t.vN)],o,t.z)
 if(A.aT()===B.a7)return new A.w6(r,b,e.c,n,B.af,s)
 else if(A.aT()===B.P)return new A.BO(r,b,B.el,s,n,B.af,e.c,s)
@@ -79030,7 +79030,7 @@ k(a){var s=this
 return"CameraPosition(bearing: "+A.j(s.a)+", target: "+s.b.k(0)+", tilt: "+A.j(s.c)+", zoom: "+A.j(s.d)+")"}}
 A.YO.prototype={}
 A.YP.prototype={
-cM(){return A.b(["newLatLngZoom",this.b.cM(),this.c],t.G)}}
+cM(){return A.b(["newLatLngBounds",this.b.cM(),this.c],t.G)}}
 A.lP.prototype={}
 A.HH.prototype={}
 A.rg.prototype={
