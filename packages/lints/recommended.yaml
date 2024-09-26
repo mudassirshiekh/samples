@@ -14,7 +14,6 @@ linter:
     - annotate_overrides
     - avoid_function_literals_in_foreach_calls
     - avoid_init_to_null
-    - avoid_null_checks_in_equality_operators
     - avoid_renaming_method_parameters
     - avoid_return_types_on_setters
     - avoid_returning_null_for_void
@@ -25,6 +24,7 @@ linter:
     - empty_statements
     - exhaustive_cases
     - implementation_imports
+    - invalid_runtime_check_with_js_interop_types
     - library_prefixes
     - library_private_types_in_public_api
     - no_leading_underscores_for_library_prefixes
@@ -54,6 +54,7 @@ linter:
     - unnecessary_constructor_name
     - unnecessary_getters_setters
     - unnecessary_late
+    - unnecessary_library_name
     - unnecessary_new
     - unnecessary_null_aware_assignments
     - unnecessary_null_in_if_null_operators
