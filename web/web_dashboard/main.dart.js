@@ -26400,7 +26400,7 @@ A.arK.prototype={
 $1(a){var s=A.dZ().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/36335019a8eab588c3c2ea783c618d90505be233/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/db49896cf25ceabc44096d5f088d86414e05a7aa/":s)+a},
 $S:63}
 A.a_J.prototype={
 cS(){B.c.ag(this.a.a.save())},

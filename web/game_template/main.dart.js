@@ -25904,7 +25904,7 @@ A.apt.prototype={
 $1(a){var s=A.dN().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/36335019a8eab588c3c2ea783c618d90505be233/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/db49896cf25ceabc44096d5f088d86414e05a7aa/":s)+a},
 $S:46}
 A.Zl.prototype={
 dD(){B.c.ai(this.a.a.save())},
