@@ -11,6 +11,7 @@ The easiest way to browse through the samples in this repo (as well as a few oth
 is the [visual samples index](https://flutter.github.io/samples).
 
 ## Tip: minimize download size
+## By Mudassir Alam
 
 As this repository is quite big, you can use svn to download a single example.
 For example:
